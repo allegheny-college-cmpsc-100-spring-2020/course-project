@@ -6,7 +6,7 @@
 
 ## Project description
 
-This semester, in the course of learning fundamental computational concepts using Java, you've been using structured, semi-guided exercises to explore topics. This project invites you to explore and expand your knowledge in greater detail by applying your knowledge to a discipline-specific problem chosen from a wide variety of subject areas, listed below. 
+This semester, in the course of learning fundamental computational concepts using Java, you've been using structured, semi-guided exercises to explore topics. This project invites you to explore and expand your knowledge in greater detail by applying your knowledge to a discipline-specific problem chosen from a wide variety of subject areas, listed below.
 
 This project has four required steps:
 
@@ -19,8 +19,9 @@ Projects will be graded using the following rubric:
 
 |     Area     |Percentage weight|Points possible|
 |:-------------|:---------------:|:-------------:|
-| Code Quality | 55%             | 55 pts.       |
+| Code Quality | 45%             | 45 pts.       |
 | Documentation| 45%             | 45 pts.       |
+| Presentation | 10%             | 10 pts.
 
 ## Helpful reading
 
@@ -85,12 +86,30 @@ On the date listed above, you will demonstrate progress during a video or indivi
 
 * Due: 27 April 2020
 * 15 pts. contributed toward `Documentation` grade
+* 10 pts. which constitute the `Presentation` grade
 
 Your project should be submitted to your project GitHub repository by the end of the day (11:59 PM) on the above date. This should include all of the writing above in addition to responses to questions in the `reflection.md` file, located in the `writing` directory. This writing should:
 
 * Have at least 5 headings
 * 750 words
 * At least 1 code block (though you _will_ use more)
+
+#### Presentation requirements
+
+This presentation can be any of the following formats:
+
+* Google Slides
+* Powerpoint
+* PDF
+
+The goal of this presentation is to establish:
+
+* The motivation for the project
+* How it works
+* Challenges encountered and how you overcame them
+* A small section of code of which you're the proudest
+  * This should highlight/explain why you're proud of it
+  * An explanation of what it does
 
 #### Code requirements
 
