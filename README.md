@@ -1,4 +1,4 @@
-# CMPSC 100-02: Group Project
+# CMPSC 100-02: Course Project
 
 * Assigned: 30 March 2020
 * Due: Various parts on various dates; see below
@@ -6,7 +6,7 @@
 
 ## Project description
 
-This semester, in the course of learning fundamental computational concepts using Java, you've been using structured, semi-guided exercises to explore topics. This group project invites you to explore and expand your knowledge in greater detail by applying your knowledge to a discipline-specific problem chosen from a wide variety of subject areas, listed below. 
+This semester, in the course of learning fundamental computational concepts using Java, you've been using structured, semi-guided exercises to explore topics. This project invites you to explore and expand your knowledge in greater detail by applying your knowledge to a discipline-specific problem chosen from a wide variety of subject areas, listed below. 
 
 This project has four required steps:
 
@@ -24,7 +24,7 @@ Projects will be graded using the following rubric:
 
 ## Helpful reading
 
-To ensure complete preparation for completing this assignment, review all of the chapters covered to this point in the course (up to and including the date of assignment for this project). As we cover new material, you will likely choose to incorporate it into your thinking and development. In some cases, new topics may replace or revise your problem-solving methods. If your group would like additional tutorials or guidance for developing your project using any topic, please schedule a meeting time to review and discuss application of concepts.
+To ensure complete preparation for completing this assignment, review all of the chapters covered to this point in the course (up to and including the date of assignment for this project). As we cover new material, you will likely choose to incorporate it into your thinking and development. In some cases, new topics may replace or revise your problem-solving methods. If you would like additional tutorials or guidance for developing your project using any topic, please schedule a meeting time to review and discuss application of concepts.
 
 In addition, there may exist concepts, modules, or third-party classes not covered in this course. You are welcome to use these provided that you document how they are used and ensure that you are not merely taking something "off the shelf" (i.e. substituting someone else's solution for your chosen project). Often, development requires going well beyond your current knowledge to produce a high-quality product.
 
@@ -37,7 +37,7 @@ In addition, there may exist concepts, modules, or third-party classes not cover
 
 This document should contain:
 
-* A list of 5 ideas that your group is considering
+* A list of 5 ideas that you are considering
     * This list should be ranked by interest _and_ feasibility
 * 5 headings
     * 1 for each idea
@@ -60,7 +60,7 @@ This document, to be completed using the `proposal.md` file in the `writing` dir
 * Contain at least 1 image
 * Contain at least 1 list
 
-> Note: Before submitting this proposal, your project needs to be approved by the instructor. I highly suggest getting approval _early_ -- as this will give your group the most time to complete your work, and not create a situation in which you're pressed for time.
+> Note: Before submitting this proposal, your project needs to be approved by the instructor. I highly suggest getting approval _early_ -- as this will give you the most time to complete your work, and not create a situation in which you're pressed for time.
 
 #### Title
 
@@ -68,7 +68,7 @@ The title should be an informative, concise, and professionally appropriate name
 
 #### Abstract
 
-An abstract is, essentially, a high-level summary of your project. While the abstract does not go too far into details, a brief description of the kind of program your group is making and your motivations for choosing this topic/issue are relevant here.
+An abstract is, essentially, a high-level summary of your project. While the abstract does not go too far into details, a brief description of the kind of program you are making and your motivations for choosing this topic/issue are relevant here.
 
 #### Description
 
@@ -76,14 +76,14 @@ This section should be a detailed and thorough explanation of how you plan your 
 
 ### Part 2: Project Update and Demo
 
-* Due: 24 April 2020
+* Due: Some time during 20 - 24 April 2020
 * 10 pts. contributed toward `Documentation` grade
 
-On the date listed above, your group will demonstrate progress during the laboratory session scheduled for that day. In addition, your group should provide a brief, 1 paragaph update with a list of remaining tasks and a plan for completing them in the `update.md` file located in the `writing` directory. This update should be _no fewer_ than 350 words.
+On the date listed above, you will demonstrate progress during a video or individual meeting sometime that week. In addition, you should provide a brief, 1 paragaph update with a list of remaining tasks and a plan for completing them in the `update.md` file located in the `writing` directory. This update should be _no fewer_ than 350 words.
 
 ### Part 3: Project Submission
 
-* Due: 5 May 2020
+* Due: 27 April 2020
 * 15 pts. contributed toward `Documentation` grade
 
 Your project should be submitted to your project GitHub repository by the end of the day (11:59 PM) on the above date. This should include all of the writing above in addition to responses to questions in the `reflection.md` file, located in the `writing` directory. This writing should:
@@ -104,12 +104,12 @@ of the declaration and use of:
 
 #### A note on testing
 
-Due to the variety of topics and projects groups may choose, I can only write concrete, comprehensive grading criteria for the reports and other writing submissions. Without your help, I can only test that:
+Due to the variety of topics and projects you may choose, I can only write concrete, comprehensive grading criteria for the reports and other writing submissions. Without your help, I can only test that:
 
 * The project runs
 * The project builds without legibility/style issues
 
-As part of the final submission, I require that you write a series of test cases for which at least some part of the project's output is known. You will do this in consultation with me (as a group).
+As part of the final submission, I require that you write a series of test cases for which at least some part of the project's output is known. You will do this in consultation with me.
 
 ## Types
 
